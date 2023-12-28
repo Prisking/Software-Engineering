@@ -1,2 +1,2 @@
 # Software-Engineering
-For all works done during my Software Engineering track on Qwasar Silicon Valley 
+For all the works done during my Software Engineering track on Qwasar Silicon Valley and beyond!
